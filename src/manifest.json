@@ -4,7 +4,7 @@
     "background_color": "#0e1140", 
     "description": "Watch Your Favourite Movies For Free!",
     "display": "fullscreen",
-    "start_url": "/app/html.html",
+    "start_url": "/app/index.html",
     "icons": [
         {
             "src": "/assets/popwatch48.png",
